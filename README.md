@@ -2,6 +2,12 @@
 Public Campaign Notes and Info for Curse of Strahd
 
 
+# Table of Contents
+
+* expectations (this file)
+* [Character Links and Bonds](Players/Character%20Links%20and%20Bonds.md)
+
+[Character Links and Bonds](Character%20Links%20and%20Bonds.md)
 # Setting Expectations
 
 #### Game Details
@@ -20,6 +26,7 @@ Public Campaign Notes and Info for Curse of Strahd
 
 [Lingering Injuries Reference](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries)
 
+* Inspiration.  [DM] can award inspiration, which is an extra die that can be used to give advantage at a later date.
 #### Combat:
 
 * players can communicate within reason in the same space
@@ -33,9 +40,8 @@ Public Campaign Notes and Info for Curse of Strahd
 	* if any player is uncomfortable with the situation they should send me this picture of [David Duchovny] from the show [Californication].
 	* at request i can print this on a postcard as a player reference.
 
-
-
 ![[duchovny-stop.jpg| Duchovny Stop Image]]
 
 #### Link
-[image](duchovny-stop.jpg)
+[David Duchovny Hands](duchovny-stop.jpg)
+

@@ -95,5 +95,6 @@ rolled/manual.  enter the values we rolled in the session 0
 >1st level gets maximum HP based on hit die
 >Further levels roll for HP from hit die.  Reroll 1's. 
 
+[screenshot](dndb-creator-screen.png)
 
-![[Screenshot 2024-01-26 at 12.47.34 PM.png]]
+![[dndb-creator-screen.png.png]]
