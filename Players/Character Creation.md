@@ -26,12 +26,13 @@ Use the following settings:
 | critical role | enabled |
 |  |  |
 ### Misc
-| category          | value                  |
-| ----------------- | ---------------------- |
-| optional features | optional class enabled |
-| advancement       | milestone              |
-| hit points        | manual (rolled)        |
-| encumberance                  | none                       |
+| category           | value                  |
+| ------------------ | ---------------------- |
+| optional features  | optional class enabled |
+| advancement        | milestone              |
+| hit points         | manual (rolled)        |
+| encumberance       | none                   |
+| corn weight | disabled                       |
 
 this should give you the following choices.
 i'll mark the standard races and which ones are exotic, but it should be obvious.
