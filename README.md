@@ -7,6 +7,7 @@ Public Campaign Notes and Info for Curse of Strahd
 * expectations (this file)
 * [Do before Next Session](To%20Do%20Before%20Next%20Session.md)
 * [Character Links and Bonds](Players/Character%20Links%20and%20Bonds.md)
+* [Character Creation Breakdown](Players/Character%20Creation.md)
 * [World Summary](World/world%20summary.md) 
 # Setting Expectations
 
