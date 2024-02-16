@@ -16,3 +16,6 @@
 - Why does your character go adventuring?
     
 - Tell me about something your character regrets doing.
+
+* What’s one lie your character believes about themselves? What’s one lie they believe about the world?
+

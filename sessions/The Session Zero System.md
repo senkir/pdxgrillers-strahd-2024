@@ -18,7 +18,6 @@ Went over the following with the group:
 * at [DM] discretion we will occasionally allow a failed roll to succeed *at a cost*
 * 
 
-
 #### Combat:
 
 * players can communicate within reason in the same space

@@ -1,22 +1,30 @@
 # Preliminary
 
-- [ ] set up players and give them a starting point
+- [x] set up players and give them a starting point
 	- [x] run through the `session zero system` booklet + cards
 	- [ ] David Ready
-		- [ ] connections
+		- [x] connections
 		- [ ] backstory
+			- [x] connect to world
+		- [x] put in DNDB
 		- [x] rolls complete
 	- [ ] Bryan Ready
 		- [ ] connections
 		- [ ] backstory
+			- [x] connect to world
+		- [ ] put in DNDB
 		- [x] rolls complete
 	- [ ] Isaac Ready
 		- [ ] connections
 		- [ ] backstory
+			- [ ] connect to world
+		- [ ] put in DNDB
 		- [x] rolls complete
 	- [ ] Dan Ready
 		- [ ] connections
 		- [ ] backstory
+			- [x] connect to world
+		- [ ] put in DNDB
 		- [x] rolls complete
 
 

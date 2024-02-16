@@ -5,7 +5,7 @@ Public Campaign Notes and Info for Curse of Strahd
 # Table of Contents
 
 * expectations (this file)
-* [Do before Next Session](To%20Do%20Before%20Next%20Session.md)
+* [Do before Next Session](To%20Do%20Before%20Next%20Session.md) (updated Feb 16)
 * [Character Links and Bonds](Players/Character%20Links%20and%20Bonds.md)
 * [Character Creation Breakdown](Players/Character%20Creation.md)
 * [World Summary](World/world%20summary.md) 
@@ -33,6 +33,10 @@ Public Campaign Notes and Info for Curse of Strahd
 * players can communicate within reason in the same space
 * there's not a strict timeline on turns but it is expected to be thinking about your moves between rounds
 * [DM] reserves the right to cut off talk and prompt for the player action if things seem like they are taking too long or there is excessive meta-gaming during a round.
+
+# Leveling
+
+* each level after 1 will roll for HP based on hit dice.  We'll do it publicly as a group as that's the most fun way.  You can re-roll 1's once.
 
 # Safety Tools
 
