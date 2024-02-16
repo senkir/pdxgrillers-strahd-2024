@@ -40,24 +40,33 @@ If there is a number by the name in DND:B then there are `subrace options`.
 ## Races
 
 ### Base
-dragonborn
-* dwarf  (most common)
-* elf
-* gnome (rare. but has world history)
-* half-elf
-* half-orc
-* halfing 
-* human (most common)
-* tiefling
-### Extra
-* aarakocra (exotic.  a bird. )
-* aasimar (exotic. angel ancestry.  opposite of tiefling )
-* firbolg (exotic. like a big cow i think )
-* genasi (exotic. essentially elemental flavor)
-* goliath (exotic.  basically big.)
-* kenku (exotic.  another bird race.)
-* tabaxi (exotic.  cat)
-* tortle (exotic.  turtle)
+
+| race | summary |
+| ---- | ---- |
+| dragonborn | uncommon |
+| dwarf | most common |
+| elf | rare |
+| gnome | rare (but has world history) |
+| half-elf | rare |
+| half-orc | uncommon |
+| halfing | uncommon |
+| human | most common |
+| tiefling | demon ancestor. rare |
+|  |  |
+
+### Extra/Exotic
+
+| race      | summary |
+| --------- | ------- |
+| aarakocra | bird        |
+| aasimar   | angel ancestor        |
+| firbolg   | dog/bovine        |
+| genasi    | elemental        |
+| goliath   | big        |
+| kenku     | crow        |
+| tabaxi    | cat        |
+| tortle    | turtle        |
+|           |         |
 
 ### Monster Races
 these are in the list but i'd just skip them
