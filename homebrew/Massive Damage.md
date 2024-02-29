@@ -18,10 +18,24 @@ This applies to both PCs and Enemies.
 |6–7|The creature can’t take reactions and has disadvantage on attack rolls and ability checks until the end of its next turn.|
 |8–10|The creature can’t take reactions until the end of its next turn.|
 
-[optional] at player/dm discression we can say that if you roll between 1-5 you obtain a sick scar relating to the type of damage.
+## Flavor Effect
+[optional] at player/dm discretion we can say that if you roll between 1-5 you obtain a flavor effect relating to the type of damage.  Players free to come up with something else (have fun with it).
 
-| Type         | Effect |
-| ------------ | ------ |
-| Bludgegoning |        |
-| Piercing     |        |
-| Slashing     |        |
+*recovery*
+players can choose to recover from this effect with any lvl3+ healing spell
+
+| Type         | Effect ( Flavor )                                              |
+| ------------ | -------------------------------------------------------------- |
+| Bludgegoning | missing teeth                                                  |
+| Piercing     | fun new piercing                                               |
+| Slashing     | linear scar                                                    |
+| Acid         | burns                                                          |
+| Cold         | frostbite / lock of white hair                                 |
+| Fire         | burns / smell faintly of smoke                                 |
+| Force        | creatures within 5 feat of you have a static sensation on skin |
+| Lightning    | tree shaped lightning scar                                     |
+| Necrotic     | white and pale discoloration of area with black veins          |
+| Poison       | occasional nausea                                              |
+| Psychic      | headaches / experience tics                                    |
+| Radiant      | skin bleaching noticeably                                      |
+| Thunder      | ringing in ears(tinnitus) / off pitch                          |
