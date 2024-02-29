@@ -1,3 +1,7 @@
+---
+classification:
+  - public
+---
 
 While not strictly necessary for the majority of the CoS campaign, 
 ## The World
@@ -32,7 +36,7 @@ Gnomes are rare and no one has seen them gnomish king for several decades.
 the elves. very mysterious and very not present.
 
 #### Bladelhelme
-as a nation Bladelhelme does not get involved in the war.
+as a nation `Bladelhelme` does not get involved in the war.
 
 ## Major Factions
 aside from the worlds nations, the following factions are active in the region.

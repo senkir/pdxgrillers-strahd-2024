@@ -4,28 +4,31 @@ Public Campaign Notes and Info for Curse of Strahd
 
 # Table of Contents
 
-* expectations (this file)
-* [Do before Next Session](To%20Do%20Before%20Next%20Session.md) (updated Feb 16)
-* [Character Links and Bonds](Players/Character%20Links%20and%20Bonds.md)
-* [Character Creation Breakdown](Players/Character%20Creation.md)
-* [World Summary](World/world%20summary.md) 
+* README (this file) - summarizes everything we've established for setting and play style
+* Players
+	* [Readiness Checklist](Readiness%20Checklist.md) (updated Feb 29) - make sure this is done before first session!
+	* [Character Creation Breakdown](Character%20Creation.md) - walkthrough character creation
+* World
+	* [World Summary](World/world%20summary.md) - existing lore for `Feistrudel`
+* Homebrew
+	* [Injuries](Injuries.md) - character injury mechanic
+	* [Massive Damage](ACTIVE%20CAMPAIGNS/Curse%20of%20Strahd/PUBLIC/homebrew/Massive%20Damage.md) - massive damage mechanic
+* Prep
+	* [The Session Zero System](The%20Session%20Zero%20System.md) - overview of what we covered in session 0
 # Setting Expectations
 
 #### Game Details
 [Mood] : Spooky horror vibes.  The world id Dark, Wild, Dangerous.  Unfamiliar.
 [Tone] :  The place is tainted by something most foul.  
 
-[Characters] : Start at level 2
+[Characters] : Start at level 2 - roll hp together
 [Danger] : There is a chance that players won't make it out in one piece.
 
 #### House Rules
 
 * at [DM] discretion we will occasionally allow a failed roll to succeed *at a cost*
-* Lingering Injuries.  There are consequences that may result in lingering wounds for the following cases:
-	* player gets to 0 hp but isn't killed
-	* takes a critical hit
-
-[Lingering Injuries Reference](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries)
+* Massive Damage.  if the player takes a large chunk of their HP in one go bad things may happen.
+* Lingering Injuries.  There is a press your luck system where you have the option to keep going after hitting 0 hp at a potential cost.
 
 * Inspiration.  [DM] can award inspiration, which is an extra die that can be used to give advantage at a later date.
 #### Combat:

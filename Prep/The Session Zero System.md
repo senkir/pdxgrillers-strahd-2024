@@ -2,8 +2,8 @@ Went over the following with the group:
 
 * [x] explain tone and expectations
 * [x] talk about safety tools (ie: things we could be uncomfortable with)
-* [ ] message out a form to give players a chance to call out any topic issues
-* [ ] talk about classes players might try to do any rolling at the table for stats & HP etc
+* [x] message out a form to give players a chance to call out any topic issues
+* [x] talk about classes players might try to do any rolling at the table for stats & HP etc
 * [x] any house rules we might want to try
 * [x] story paths for character creation (see below)
 
@@ -12,6 +12,7 @@ Went over the following with the group:
 
 * players would like to be in RP mode the majority of the time
 * out of character maybe 30 percent
+* will copy this information to the campaign [readme]
 
 #### House Rules
 
@@ -72,12 +73,12 @@ the above can be rewritten and change based on location and NPCs the characters 
 `modifications`
 
 `new rules`
-* Final Stand
-	* players have the option to do something dramatic as their last action when they're about to go down
+* ~~Final Stand~~
+	* ~~players have the option to do something dramatic as their last action when they're about to go down~~
 
-* Story Doesn't End Here
-* Lucky Table
-	* 3 lucky rolls to use during evening
+* ~~Story Doesn't End Here~~
+* ~~Lucky Table
+	* ~~3 lucky rolls to use during evening~~
 * Failing Forward
 	* fail at a cost
 

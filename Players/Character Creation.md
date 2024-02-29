@@ -1,3 +1,8 @@
+---
+classification:
+  - public
+---
+# Info
 
 You will want to select the following:
 
