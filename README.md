@@ -6,15 +6,15 @@ Public Campaign Notes and Info for Curse of Strahd
 
 * README (this file) - summarizes everything we've established for setting and play style
 * Players
-	* [Readiness Checklist](Readiness%20Checklist.md) (updated Feb 29) - make sure this is done before first session!
-	* [Character Creation Breakdown](Character%20Creation.md) - walkthrough character creation
+	* [Readiness Checklist](Players/Readiness%20Checklist.md) (updated Feb 29) - make sure this is done before first session!
+	* [Character Creation Breakdown](Players/Character%20Creation.md) - walkthrough character creation
 * World
 	* [World Summary](World/world%20summary.md) - existing lore for `Feistrudel`
 * Homebrew
-	* [Injuries](Injuries.md) - character injury mechanic
-	* [Massive Damage](ACTIVE%20CAMPAIGNS/Curse%20of%20Strahd/PUBLIC/homebrew/Massive%20Damage.md) - massive damage mechanic
+	* [Injuries](homebrew/Injuries.md) - character injury mechanic
+	* [Massive Damage](homebrew/Massive%20Damage.md) - massive damage mechanic
 * Prep
-	* [The Session Zero System](The%20Session%20Zero%20System.md) - overview of what we covered in session 0
+	* [The Session Zero System](Prep/The%20Session%20Zero%20System.md) - overview of what we covered in session 0
 # Setting Expectations
 
 #### Game Details
