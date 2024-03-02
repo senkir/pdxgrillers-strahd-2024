@@ -1,3 +1,9 @@
+---
+share:
+  - "true"
+path: homebrew
+---
+
 Basing our homebrew on this system - [Doc Source](https://docs.google.com/document/d/1gCWlBiEN1kjyuWP-usIPDybUItE1ad1RLZ2ZRynJq9s/edit#heading=h.sav9f6noz6us)
 There are other variants of this but they tend to be more complicated or have greater immediate risk for permanent damage.
 

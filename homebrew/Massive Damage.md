@@ -1,3 +1,9 @@
+---
+share:
+  - "true"
+path: homebrew
+---
+
 [DNDBeyond Massive Damage Source](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#MassiveDamage)
 
 This optional rule makes it easier for a creature to be felled by *massive damage*.
