@@ -1,3 +1,9 @@
+---
+share:
+  - "true"
+path: Players
+---
+
 # Preliminary
 
 - [x] set up players and give them a starting point
