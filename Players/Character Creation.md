@@ -2,7 +2,7 @@
 share:
   - "true"
 path: Players
-filename: character-creation.md
+title: character-creation.md
 ---
 # Info
 
