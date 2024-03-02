@@ -2,6 +2,7 @@
 share:
   - "true"
 path: Players
+title: character-creation.md
 ---
 # Info
 
@@ -113,4 +114,4 @@ rolled/manual.  enter the values we rolled in the session 0
 
 [screenshot](dndb-creator-screen.png)
 
-![[dndb-creator-screen.png.png|dndb-creator-screen.png.png]]
+![dndb-creator-screen.png.png](../images/dndb-creator-screen.png.png)
