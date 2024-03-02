@@ -13,15 +13,15 @@ Public Campaign Notes and Info for Curse of Strahd
 
 * README (this file) - summarizes everything we've established for setting and play style
 * Players
-	* [[Readiness Checklist|Readiness Checklist]] (updated Feb 29) - make sure this is done before first session!
-	* [[Character Creation|Character Creation]] - walkthrough character creation
+	* [Readiness Checklist](./Players/Readiness%20Checklist.md) (updated Feb 29) - make sure this is done before first session!
+	* [Character Creation](./Players/Character%20Creation.md) - walkthrough character creation
 * World
-	* [[world summary|world summary]]  - existing lore for `Feistrudel`
+	* [world summary](./world/world%20summary.md)  - existing lore for `Feistrudel`
 * Homebrew
-	* [Injuries](homebrew/Injuries.md) - character injury mechanic
-	* [Massive Damage](homebrew/Massive%20Damage.md) - massive damage mechanic
+	* [Injuries](./homebrew/Injuries.md#) - character injury mechanic
+	* [Massive Damage](./homebrew/Massive%2520Damage.md#) - massive damage mechanic
 * Prep
-	* [The Session Zero System](Prep/The%20Session%20Zero%20System.md) - overview of what we covered in session 0
+	* [The Session Zero System](The%2520Session%2520Zero%2520System.md#) - overview of what we covered in session 0
 # Setting Expectations
 
 #### Game Details
@@ -55,8 +55,7 @@ Public Campaign Notes and Info for Curse of Strahd
 	* if any player is uncomfortable with the situation they should send me this picture of [David Duchovny] from the show [Californication].
 	* at request i can print this on a postcard as a player reference.
 
-![[duchovny-stop.jpg|duchovny-stop.jpg]]
 
 #### Link
-[David Duchovny Hands](duchovny-stop.jpg)
 
+[duchovny-stop.jpg](./images/duchovny-stop.jpg)
