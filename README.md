@@ -55,8 +55,7 @@ Public Campaign Notes and Info for Curse of Strahd
 	* if any player is uncomfortable with the situation they should send me this picture of [David Duchovny] from the show [Californication].
 	* at request i can print this on a postcard as a player reference.
 
-![[duchovny-stop.jpg| Duchovny Stop Image]]
 
 #### Link
-[David Duchovny Hands](duchovny-stop.jpg)
 
+[[duchovny-stop.jpg|duchovny-stop.jpg]]
