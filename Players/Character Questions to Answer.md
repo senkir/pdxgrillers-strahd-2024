@@ -1,3 +1,8 @@
+---
+share:
+  - "true"
+path: Players
+---
 
 Questionere to be filled in Google Doc (based on template questions)
 
